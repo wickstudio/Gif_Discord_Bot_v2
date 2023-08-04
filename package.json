@@ -1,0 +1,16 @@
+{
+  "name": "discord-gif-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that sends GIFs.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.16.0",
+    "discord.js-buttons": "^1.0.0",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "约 - Wick",
+  "license": "MIT"
+}
